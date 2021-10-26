@@ -7,4 +7,10 @@ Technoligies Used
   - SCSS
   - JAVASCRIPT
   - JQUERY
+
+Templates Used
+  - BOOTSTRAP 5
   - FONTAWESOME
+  - HTML5UP
+  - CODEPEN.IO
+  - CODESANDBOX.IO
