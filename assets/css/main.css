@@ -4112,3 +4112,24 @@ input, select, textarea {
 		}
 
 	}
+
+.partners{
+	background-color: white;	
+}
+	.partners h1{
+		color: orange;
+	}
+
+	.partners h2{
+		color: orange;
+	}
+
+	.partners p{
+		color: orange;
+	}
+
+.completed-projects-spacing{
+	background-color: #ed7d33; 
+	padding-top: 100px; 
+	padding-bottom: 5px;
+}
