@@ -4088,3 +4088,27 @@ input, select, textarea {
 	.project6:hover{
 		background-image: url(../../images/sea-game-sports-complex.jpg);
 	}
+
+	.carousel-EcoSips{
+		height: 900px;
+
+	}
+
+	.carousel-EcoSips-Button{
+		box-shadow: none;
+		height: 900px;
+	}
+	
+	@media screen and (max-width: 1680px) {
+
+		.carousel-EcoSips{
+			height: 300px;
+	
+		}
+
+		.carousel-EcoSips-Button{
+			box-shadow: none;
+			height: 300px;
+		}
+
+	}
