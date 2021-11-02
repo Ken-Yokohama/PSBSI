@@ -4090,13 +4090,13 @@ input, select, textarea {
 	}
 
 	.carousel-EcoSips{
-		height: 900px;
+		height: 600px;
 
 	}
 
 	.carousel-EcoSips-Button{
 		box-shadow: none;
-		height: 900px;
+		height: 600px;
 	}
 	
 	@media screen and (max-width: 1680px) {
