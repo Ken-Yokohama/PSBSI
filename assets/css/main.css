@@ -4133,3 +4133,17 @@ input, select, textarea {
 	padding-top: 100px; 
 	padding-bottom: 5px;
 }
+
+#ecosips-logo{
+	width:20rem; 
+	margin-left: 15rem;
+}
+
+@media screen and (max-width: 736px) {
+
+	#ecosips-logo{
+		width:20rem; 
+		margin-left: 20%;
+	}
+
+}
