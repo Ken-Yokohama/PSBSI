@@ -4243,6 +4243,7 @@ input, select, textarea {
 	line-height: 1;
 	margin: 0;
 	font-size: 1.7rem;
+	color: #3C3C3C;
 }
 .blog-card .description h2 {
 	font-size: 1rem;
