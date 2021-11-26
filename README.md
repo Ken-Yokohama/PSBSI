@@ -1,5 +1,8 @@
-# Pioneer Specialty Building Systems Inc.
-Here Contains The Company Website for Pioneer Specialty Building Systems Inc.
+# Pioneer Specialty Building Systems Inc. Landing Page
+The Company Website for Pioneer Specialty Building Systems Inc. 
+
+### Brief Background
+PSBSI is a specialty contractor & subsidary of Pioneer Adhesives Inc. that specializes in the construction of Water Proofing, EIFS and SIPS.
 
 Technoligies Used
   - HTML
