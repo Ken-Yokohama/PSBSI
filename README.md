@@ -1,6 +1,8 @@
 # Pioneer Specialty Building Systems Inc. Landing Page
 The Company Website for Pioneer Specialty Building Systems Inc. 
 
+![Pioneer Adhesives Inc. Logo](https://pioneer-adhesives.com/wp-content/uploads/2021/05/PSBSI.jpg)
+
 ### Brief Background
 PSBSI, a specialty contractor & subsidary of Pioneer Adhesives Inc. is a wholly Filipino-owned manufacturing and distribution company, one of the leaders in the marketplace and committed to giving our customers excellent service, as well as reliable industrial and household adhesives, sealants, waterproofing, specialty coatings, and insulation in the country. Our company specializes in the construction of Water Proofing, EIFS and SIPS.
 
