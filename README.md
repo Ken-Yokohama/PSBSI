@@ -56,19 +56,18 @@ psbsi/
 | JQUERY           | CODESANDBOX.IO|
 
 ### Version Logs
-V1.0 23 Sept '21 - Original Release
+V1.0 22 Oct '21 - Original Release
 
-V1.1 7 Oct '21 - Added 4 more theme colors
+V1.1 26 Oct '21 - Added Initial Content for About Us
 
-- added 
-- added
-- added 
+- Changed Republic Chemical Industries Inc. to Pioneer Adhesives Inc.
 
-V1.2 20 Oct '21 - Adjusted
+V1.2 27 Oct '21 - Added Initial EcoSips Page
 
-- bugfixing
-- improvements on
-- gradients changes for a better quality
+V1.3 27 Oct '21 - Added Section 3 of EcoSips
+
+- Implemented Bootstrap to Pages
+- Added links to the EcoSips Page from the index.html 
 
 V1.2.1 25 Oct '21 - Added
 
