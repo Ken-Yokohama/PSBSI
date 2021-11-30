@@ -77,3 +77,4 @@ V1.3 28 Oct '21 - Added Eco Sips Cards & Descriptions
 V1.4 29 Oct '21 - Added Components for Eco Sips
 
 - Added Modals for Fiberglass & Ficemboard Sips
+- Fixed photos for Ecosips components section
