@@ -69,6 +69,6 @@ V1.3 27 Oct '21 - Added Section 3 of EcoSips
 - Implemented Bootstrap to Pages
 - Added links to the EcoSips Page from the index.html 
 
-V1.2.1 25 Oct '21 - Added
+V1.3 28 Oct '21 - Added Eco Sips Cards & Descriptions
 
- - More Adjustments
+ - Fix class for Ecosips Section 2
