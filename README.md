@@ -78,3 +78,9 @@ V1.4 29 Oct '21 - Added Components for Eco Sips
 
 - Added Modals for Fiberglass & Ficemboard Sips
 - Fixed photos for Ecosips components section
+
+V1.5 30 Oct '21 - Added Additional Routing and Additional UI Elements
+
+- Added routing to "About Me" Section from Home page
+- Added Icons to display specific sections in Home Page
+- Added Carousell in EcoSips Section
