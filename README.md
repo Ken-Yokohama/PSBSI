@@ -86,3 +86,5 @@ V1.5 30 Oct '21 - Added Additional Routing and Additional UI Elements
 - Added Carousell in EcoSips Section
 - Fixed Responsiveness of Carousell in EcoSips Section
 - Added a Trusted Clients Section in About Me
+- Added googleSearchConsole Meta Tag
+- Added SiteMap
