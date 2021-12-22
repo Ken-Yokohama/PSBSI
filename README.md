@@ -88,3 +88,9 @@ V1.5 30 Oct '21 - Added Additional Routing and Additional UI Elements
 - Added a Trusted Clients Section in About Me
 - Added googleSearchConsole Meta Tag
 - Added SiteMap
+
+V1.6 2 Nov '21 - Repositioned Elements, Routing & Added Additional UI Elements
+- Added a Carousell showing our previous projects on the header of the Ecosips Section
+- Add the two types of Ecosips (Ficem and Fiberglass) in the Ecosips Section
+- Add completed Projects Section in Home Page that links to the About Me
+- Added 3 card templates for projects
