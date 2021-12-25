@@ -94,3 +94,9 @@ V1.6 2 Nov '21 - Repositioned Elements, Routing & Added Additional UI Elements
 - Add the two types of Ecosips (Ficem and Fiberglass) in the Ecosips Section
 - Add completed Projects Section in Home Page that links to the About Me
 - Added 3 card templates for projects
+
+V1.7 3 Nov '21 - Repositioned Elements, Routing & Added Additional UI Elements
+- Refactored About Me Section to be more modular
+- Added Trusted Partners & Clients in the About Me Section
+- Added a call to action that scrolls to the projects when routing to the About Me section
+- Added Vision & Mission section
