@@ -95,7 +95,7 @@ V1.6 2 Nov '21 - Repositioned Elements, Routing & Added Additional UI Elements
 - Add completed Projects Section in Home Page that links to the About Me
 - Added 3 card templates for projects
 
-V1.7 3 Nov '21 - Repositioned Elements, Routing & Added Additional UI Elements
+V1.7 3 Nov '21 - Refactored & Added additional sections to the About Me Page
 - Refactored About Me Section to be more modular
 - Added Trusted Partners & Clients in the About Me Section
 - Added a call to action that scrolls to the projects when routing to the About Me section
