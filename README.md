@@ -100,3 +100,10 @@ V1.7 3 Nov '21 - Refactored & Added additional sections to the About Me Page
 - Added Trusted Partners & Clients in the About Me Section
 - Added a call to action that scrolls to the projects when routing to the About Me section
 - Added Vision & Mission section
+
+V1.8 5 Nov '21 - Added Webpage for Waterproofing Systems
+- Created webpage and Routing to Waterproofing Systems
+- Added cards for Waterproofing Section
+- Added section "Why you shouldnt miss waterproofing"
+- Added section fro waterproofing 101
+- Added template for EIFS webpage
