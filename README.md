@@ -107,3 +107,9 @@ V1.8 5 Nov '21 - Added Webpage for Waterproofing Systems
 - Added section "Why you shouldnt miss waterproofing"
 - Added section fro waterproofing 101
 - Added template for EIFS webpage
+
+V1.9 6 Nov '21 - Added Webpage for Waterproofing Systems
+- Added Waterproofing 101 Video Embeds
+- Added Additional Cards for EIFS w/ Content & Descriptions
+- Added Installations Steps in EcoSips Section
+- Added Additional Cards for EcoSips Section
