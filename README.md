@@ -113,3 +113,6 @@ V1.9 6 Nov '21 - Added Webpage for Waterproofing Systems
 - Added Additional Cards for EIFS w/ Content & Descriptions
 - Added Installations Steps in EcoSips Section
 - Added Additional Cards for EcoSips Section
+- Added product link to cards in waterproofing section
+- Added 'The Fountain' Okada Manila project to the waterproofing section
+- Made the valued partners spection fully responsive
