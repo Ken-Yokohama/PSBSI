@@ -9,6 +9,8 @@ PSBSI, a specialty contractor & subsidary of Pioneer Adhesives Inc. is a wholly 
 ### Links:
 - [Live Preview](https://ken-yokohama.github.io/psbsi/index.html)
 
+![PSBSI Cover Sample](https://github.com/Ken-Yokohama/psbsi/blob/master/cover.JPG?raw=true)
+
 ### Quick Start:
 - [Download from Github](https://github.com/Ken-Yokohama/psbsi)
 - Clone the repository: ``` git clone https://github.com/Ken-Yokohama/psbsi.git ```
